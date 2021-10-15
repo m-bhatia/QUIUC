@@ -1,5 +1,5 @@
 # QUIUC
 
-Videos:
+Dirac Notation & Qiskit Demo: https://bit.ly/3lHtfc5
 
-Half Adder Intuition: https://bit.ly/3mQiqDM
+Python Syntax & Half Adder Demo: https://bit.ly/3mQiqDM
